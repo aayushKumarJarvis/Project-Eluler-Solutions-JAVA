@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/ProjectEuler.iml" filepath="$PROJECT_DIR$/.idea_modules/ProjectEuler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/ProjectEuler-build.iml" filepath="$PROJECT_DIR$/.idea_modules/ProjectEuler-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/projecteuler.iml" filepath="$PROJECT_DIR$/.idea/modules/projecteuler.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/projecteuler-build.iml" filepath="$PROJECT_DIR$/.idea/modules/projecteuler-build.iml" />
     </modules>
